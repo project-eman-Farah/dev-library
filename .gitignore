@@ -1,0 +1,5 @@
+/target/
+
+
+# Ignore secret admin credentials
+config/admin.properties
